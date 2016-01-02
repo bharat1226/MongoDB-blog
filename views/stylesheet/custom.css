@@ -1,0 +1,20 @@
+.allback_color{
+	background-color: red;
+}
+
+.titi{
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.img-wid{
+	min-width: 100%;
+	max-width: 100%;
+}
+
+.re{
+	color:red;
+}
+
+.bl{
+	color:blue;
+}
